@@ -22,5 +22,5 @@ Packages used:
 
 Run locally with npm i then npm run dev commands
 
-Also hosted here: 
+Also deployed here using github workflows: https://jonvfvn.github.io/my-shows/
 
