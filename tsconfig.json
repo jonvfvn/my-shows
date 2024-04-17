@@ -26,6 +26,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "tests/steup.ts", "tests/App.test.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
+  
 }
